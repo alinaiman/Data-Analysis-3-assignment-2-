@@ -1,4 +1,4 @@
-# DA3 Assignment 2: Predicting Fast-Growing Firms
+# Predicting Fast-Growing Firms
 
 **Course:** Data Analysis 3: Prediction and Introduction to Machine Learning  
 **Authors:** Alina Imanakhunova, Sabira Onbayeva  
